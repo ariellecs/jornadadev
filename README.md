@@ -1,4 +1,5 @@
 DIA 1 - Instalando as ferramentas
+DIA 2 - Estruturando componente de video
 
 # Getting Started with Create React App
 
