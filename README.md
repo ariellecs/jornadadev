@@ -1,5 +1,6 @@
 DIA 1 - Instalando as ferramentas
 DIA 2 - Estruturando componente de video
+DIA 3 - Componente footer
 
 # Getting Started with Create React App
 
