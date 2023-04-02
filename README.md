@@ -1,7 +1,8 @@
-DIA 1 - Instalando as ferramentas
-DIA 2 - Estruturando componente de video
-DIA 3 - Componente footer
-DIA 4 - Sidebar
+DIA 1 - Instalando as ferramentas\
+DIA 2 - Estruturando componente de video\
+DIA 3 - Componente footer\
+DIA 4 - Sidebar\
+DIA 5 - Conectando ao Firebase - O arquivo config não está no projeto para não expor as credenciais.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
