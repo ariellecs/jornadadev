@@ -2,7 +2,8 @@ DIA 1 - Instalando as ferramentas\
 DIA 2 - Estruturando componente de video\
 DIA 3 - Componente footer\
 DIA 4 - Sidebar\
-DIA 5 - Conectando ao Firebase
+DIA 5 - Conectando ao Firebase\
+DIA 6 - Criando Hosting com Firebase
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
