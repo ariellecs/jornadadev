@@ -25,6 +25,7 @@ function Video({ likes, messages, shares, name, description, music, url }) {
         onClick={handleStart}
         loop
         src={url}
+        autoplay=1
       ></video>
 
       <VideoSidebar likes={likes} messages={messages} shares={shares} />
